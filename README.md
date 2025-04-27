@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JDNG111.JDNG111" alt="visit badge"/>
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=JDNG111)
 </p>
 
 # 💻 Tech Stack:
